@@ -4753,7 +4753,7 @@ local LogoToggle = Instance.new("ImageLabel")
 end
 
 
-local Library = Update:Window("Gamer144 hub","2.0",Enum.KeyCode.RightControl);
+local Library = Update:Window("  บังอร","2.0",Enum.KeyCode.RightControl);
 
 Main = Library:Tab("Genneral",6026568198)
 Sta = Library:Tab("Stats",7040410130)
@@ -13539,7 +13539,7 @@ end)
         end
     end
 
-Main:Label("Gamer144 Hub by Huy")
+Main:Label("บังอร Hub by nonamehub")
 
 
 
